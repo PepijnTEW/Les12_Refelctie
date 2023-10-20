@@ -3,15 +3,12 @@
 ## Samuel
 
 wat heb ik met deze lessen nieuw geleerd?
-
 - heel veel git
 
 wat wist ik al?
-
 - hoe je cmd  moest openen
 
 waarvan zou ik nog meer willen weten?
-
 - ik zou wel willen weten of me ouders trots op me zijn
 
 ![zelda](https://s7.halloweenexpress.com/is/image/OrientalTrading/FXBanner_808/mens-deluxe-legend-of-zelda-link-costume-xxl~dg85722c.jpg)
@@ -22,16 +19,12 @@ waarvan zou ik nog meer willen weten?
 
 
 Wat heb ik met deze lessen nieuw geleerd?
-
 - Ik heb geleerd hoe ik files moet transferen tussen git en mijn laptop en basic comandlines van git. Ook heb ik een beetje geleerd om te coden en basic codes geleerd.
 
-
 Wat wist ik al?
-
 - Ik wist dat er verschillende soorten code waren maar voor de rest nog niks.
 
 Waarvan zou ik nog meer willen weten?
-
 - Ik zou graag nog beter leren werken met git en ook nog beter leren coderen.
 
 
