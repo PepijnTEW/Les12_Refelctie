@@ -1,5 +1,6 @@
 # Les12_Refelctie
 
+
 ## Jona wehnes
 
 
@@ -19,3 +20,18 @@ Waarvan zou ik nog meer willen weten?
 
 
 ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsoundcloud.com%2Fdediawconthi%2Fsnakeio-a-fun-and-addictive-snake-io-game-you-can-play-offline-or-online&psig=AOvVaw3peRCEmylbcJM-LTNGWTwF&ust=1697890585608000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIijsbvNhIIDFQAAAAAdAAAAABAE)
+
+
+
+## Pepijn te Winkel
+
+Wat heb ik met deze lessen nieuw geleerd?
+- ik heb alles over git geleerd hiervoor wist ik namelijk nog niet hoe ik dit moest gebruiken ook hoe je files moet uploaden naar een server.
+
+Wat wist ik al?
+- ik wist nog niets ik wist wel hoe ik github moest gebruiken als consument maar niet hoe ik files moest uploaden.
+
+Waarvan zou ik nog meer willen weten?
+- hoe ik meer op servers moet werken dat lijkt mij leuk
+![dit is the rock](https://m.media-amazon.com/images/M/MV5BOWU1ODBiNGUtMzVjNi00MzdhLTk0OTktOWRiOTIxMWNhOGI2XkEyXkFqcGdeQXVyMTU2OTM5NDQw._V1_FMjpg_UX1000_.jpg)
+ 
