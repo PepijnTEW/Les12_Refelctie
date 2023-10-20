@@ -1,6 +1,5 @@
 # Les12_Refelctie
 
-<<<<<<< HEAD
 ## Samuel
 
 wat heb ik met deze lessen nieuw geleerd?
@@ -16,7 +15,7 @@ waarvan zou ik nog meer willen weten?
 - ik zou wel willen weten of me ouders trots op me zijn
 
 ![zelda](https://s7.halloweenexpress.com/is/image/OrientalTrading/FXBanner_808/mens-deluxe-legend-of-zelda-link-costume-xxl~dg85722c.jpg)
-=======
+
 
 ## Jona wehnes
 
@@ -52,4 +51,4 @@ Waarvan zou ik nog meer willen weten?
 - hoe ik meer op servers moet werken dat lijkt mij leuk
 ![dit is the rock](https://m.media-amazon.com/images/M/MV5BOWU1ODBiNGUtMzVjNi00MzdhLTk0OTktOWRiOTIxMWNhOGI2XkEyXkFqcGdeQXVyMTU2OTM5NDQw._V1_FMjpg_UX1000_.jpg)
  
->>>>>>> 0442051fab369e20fe4879f98eaa1e0a6df1e2ac
+
